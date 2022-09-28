@@ -1,4 +1,4 @@
-#READ HERE BEFOR NORMAL SD INFO
+# READ HERE BEFOR NORMAL SD INFO
 This is a forck of stable diffusion by StruckGuide8154, the only diffrence is this is pre set up with only a couple mini/anoconda scrits needing to be run now, THIS IS OUTDATED and you may make any changes please download the officioal one if anything breaks, this modle has been finetuned but will ONLY run on 4GB+ VRAM GPU's. I will upload the modle card somewhere else as the file is 2.5GB. Read on :)
 
 # Stable Diffusion Dream Script
